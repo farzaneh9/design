@@ -9,8 +9,6 @@
 2. aim2
 3. aim3
    
-   ![](https://gitlab.com/picbed/bed/uploads/75985eac80cb11269120d0283ce6a8a5/logo.png)
-   ![](img2/download.png)
+![](https://gitlab.com/picbed/bed/uploads/75985eac80cb11269120d0283ce6a8a5/logo.png)
 
-
-   ![](img2/persian-new-year.jpg)
+![](img2/persian-new-year.jpg)
